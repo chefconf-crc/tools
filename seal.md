@@ -14,4 +14,5 @@ Rake
 Make
 Hub
 Jenkins
+RuboCop
 
